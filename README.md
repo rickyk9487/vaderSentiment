@@ -139,8 +139,8 @@ The compressed .tar.gz package includes **PRIMARY RESOURCES** (items 1-3) as wel
 
 
 =======
-## python Code EXAMPLE:
-```
+##Python Code EXAMPLE:
+```python
 	from vaderSentiment import sentiment as vaderSentiment 
 	#note: depending on how you installed (e.g., using source code download versus pip install), you may need to import like this:
 	#from vaderSentiment.vaderSentiment import sentiment as vaderSentiment
